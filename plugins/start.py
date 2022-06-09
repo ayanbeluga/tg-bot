@@ -36,7 +36,7 @@ async def start(Client, message):
     caption = f"""
 <b>{get_part_of_day()} <a href="tg://user?id={message.from_user.id}">{message.from_user.first_name}</a>[<code>{message.from_user.id}</code>],
 How Are You?
-I Am Jocasta. The Multi Functional Bot For You.
+I Am KId Robot. The Multi Functional Bot For You.
 Today Is {day} Of {dt_string}.
 Check And Click Down For More</b>    
 """
